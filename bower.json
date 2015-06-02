@@ -1,0 +1,19 @@
+{
+  "name": "Starter",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "bootstrap": "~3.3.4"
+  }
+}
