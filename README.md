@@ -1,6 +1,6 @@
 gulp starter
 ==========
-
+[![Codacy Badge](https://www.codacy.com/project/badge/db69b42098c347b3a229b28f7cb5e417)](https://www.codacy.com/app/monkyponky/gulp-starter)
 
 
 ### Version
